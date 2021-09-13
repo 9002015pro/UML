@@ -2,7 +2,8 @@
 Министерство образования и науки РФ
 Государственное бюджетное профессиональное образовательное учреждение Республики Марий Эл
 Йошкар-Олинский технологический колледж
-
+![enter image description here](images/image.bmp)
+ [Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
 
 
 ## Курсовой Проект
@@ -15,6 +16,5 @@
 г.Йошкар-Ола, 2021 
 
 # USE CASE
-![enter image description here](images/image.bmp)
- [Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
+
 
