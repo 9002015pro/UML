@@ -3,8 +3,9 @@
 Государственное бюджетное профессиональное образовательное учреждение Республики Марий Эл
 Йошкар-Олинский технологический колледж
 
- [Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
-
+[Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
+[Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
+[Описание предметной области](https://github.com/9002015pro/-Description-of-the-subject-area). 
 
 ## Курсовой Проект
 
